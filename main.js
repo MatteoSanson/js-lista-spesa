@@ -1,7 +1,5 @@
 'use strict';
 
-'use strict';
-
 const lista = document.querySelector('.lista');
 
 const spesa = ['pane','latte','mele','pere','farina','uova','pasta'];
